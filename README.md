@@ -50,17 +50,17 @@ The library Matplotlib is imported to plot the Bar Graph for the Accuracies.
 
 
 
-#### This Project is a nine-step process, and the steps can be listed as: 
+# This Project is a nine-step process, and the steps can be listed as: 
 
- #######  Step 1 : Step 01: Import ​ pyspark ​ and initialize Spark
- #######  Step 02: Load the dataset and print the schema and total number of entries
- #######  Step 03: Feature Selection:  Delete unnecessary columns from the dataset
- #######  Step 04: Identify Missing Data
- #######  Step 05: Imputing Missing Data
- #######  Step 06: Feature Vectorization using Vector Assembler 
- #######  Step 07: Dividing Into Training and Testing
- #######  Step 08: Applying Various Models 
- #######  Step 09: Selecting Best Model based on Metrics.
+ ##  Step 1 : Step 01: Import ​ pyspark ​ and initialize Spark
+ ##  Step 02: Load the dataset and print the schema and total number of entries
+ ## Step 03: Feature Selection:  Delete unnecessary columns from the dataset
+ ##  Step 04: Identify Missing Data
+ ## Step 05: Imputing Missing Data
+ ## Step 06: Feature Vectorization using Vector Assembler 
+ ##  Step 07: Dividing Into Training and Testing
+ ## Step 08: Applying Various Models 
+ ## Step 09: Selecting Best Model based on Metrics.
  
  
  
